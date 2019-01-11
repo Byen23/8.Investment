@@ -3,7 +3,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Created on Fri Jan 11 01:53:19 2019
+Created on Fri Jan 11 2019
 
 @author: Byen23
 
